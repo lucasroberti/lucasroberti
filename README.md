@@ -1,9 +1,9 @@
 <h1 align="left">Hi, I'm Lucas Roberti <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /></h1>
 
-<h3 align="left">Fullstack Developer Resident @ Instituto de Pesquisas Eldorado & Petrobras</h3>
+<h3 align="left">Software Development Student | Fullstack Developer Resident @ Instituto de Pesquisas Eldorado & Petrobras</h3>
 
 <p align="left">
-Building fullstack applications with clean architecture, solid data modeling, and a strong focus on problem-solving. Currently deepening my skills in backend development, relational databases, and software engineering best practices.
+Building fullstack applications with clean architecture, solid data modeling, and a strong focus on problem-solving. Currently pursuing a degree in Biomedical Informatics and deepening my skills in backend development, relational databases, and software engineering best practices.
 </p>
 
 ---
@@ -24,7 +24,6 @@ Building fullstack applications with clean architecture, solid data modeling, an
 ### 📌 Featured Projects
 
 - **[finances-household-postgres](https://github.com/lucasroberti/finances-household-postgres)** — Relational database design (PostgreSQL) for multi-user, multi-currency household financial management, with analytical views for budgeting and spend tracking.
-- *(Add your other projects here — MailGuard, the C code generator, the Supabase finance app — once pushed to GitHub)*
 
 ---
 
